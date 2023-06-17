@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is  Stephen Olayiwola.
+I'm currently  a frontend web developer.
+I am proficient in HTML5, CSS3, & JAVASCRIPT.
+
+Links to some of my works:
+Aria Landing Page/Website: https://djsteplion.github.io/aria-website-landing-page/
+
+
 <!--
 **Djsteplion/Djsteplion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on some websites;basically the frontend aspects.
+- 🌱 I’m currently learning react.js and  apis ...
+- 👯 I’m looking to collaborate on website projects...
+- 🤔 I’m looking for help with job placements...
+- 💬 Ask me about  HTML, CSS, JAVASCRIPT, SQL , C , C++, KOTLIN, PHP and XML ...
+- 📫 How to reach me; WhatsApp: +2349045977499   Email: djsteplion@gmail.com...
+- 😄 Pronouns: He
+- ⚡ Fun fact: I enjoy coding and thinking. I also eat a lot...
