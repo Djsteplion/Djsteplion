@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 My name is  Stephen Olayiwola.
-I'm currently  a frontend web developer.
+
+I'm currently  a Frontend Web Developer.
+
 I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
+
+
 Links to some of my works:
+
 Aria Landing Page/Website: https://djsteplion.github.io/aria-website-landing-page/
 
 
