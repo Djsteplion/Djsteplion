@@ -12,7 +12,7 @@ Links to some of my works:
 
 Aria Landing Page/Website: https://djsteplion.github.io/aria-website-landing-page/
 
-Leno app landing page(*Best viewed on Desktop & Tablet Devices* *Still working on mobile responsiveness*) : 
+Leno-app-landing-page (*Best viewed on Desktop & Tablet Devices* *Still working on mobile responsiveness*) : https://djsteplion.github.io/leno/
 
 
 <!--
