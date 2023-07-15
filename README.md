@@ -4,15 +4,19 @@ My name is  Stephen Olayiwola.
 
 I'm currently  a Frontend Web Developer.
 
+I am presently working remotely & part-time at Rescue Team Global Mission  as a Frontend Web Developer.
+(👉👁 Watch out for their website launch soon !!! )
+
 I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
 
 
 Links to some of my works:
 
-Aria Landing Page/Website: https://djsteplion.github.io/aria-website-landing-page/
+Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
 Leno-app-landing-page: https://djsteplion.github.io/leno/
+
 
 
 <!--
@@ -29,8 +33,9 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 
+
 🔭 I’m currently working on some websites;basically the frontend aspects.
-- 🌱 I’m currently enjoying react.js and  apis ...
+- 🌱 I’m currently exploring react.js and  apis ...
 - 👯 I’m looking to collaborate on website projects...
   🤔 
 - 💬 Ask me about  HTML, CSS, JAVASCRIPT, SQL , C , C++, KOTLIN, PHP and XML ...
