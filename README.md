@@ -11,6 +11,7 @@ I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
 
 
+
 Links to some of my works:
 
 Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
@@ -35,6 +36,8 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 
 🔭 I’m currently working on some websites;basically the frontend aspects.
