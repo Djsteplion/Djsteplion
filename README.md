@@ -19,7 +19,7 @@ Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 Leno-app-landing-page: https://djsteplion.github.io/leno/
 
 NFT-landing-page: https://djsteplion.github.io/Nft-landing-page/
-(still working on the content & responsiveness for tablet and mobile devices)
+
 
 
 
