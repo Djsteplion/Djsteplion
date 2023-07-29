@@ -4,8 +4,8 @@ My name is  Stephen Olayiwola.
 
 I'm currently  a Frontend Web Developer.
 
-I am presently working remotely & part-time at #Rescue #Team #Global #Mission  as a Frontend Web Developer.
-(👉👁 #Watch out for their website launch soon !!! )
+I am presently working remotely & part-time at # Rescue-Team-Global-Mission  as a Frontend Web Developer.
+(👉👁 # Watch out for their website launch soon !!! )
 
 I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
@@ -14,11 +14,13 @@ I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
 Links to some of my works:
 
-Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
+(1) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
-Leno-app-landing-page: https://djsteplion.github.io/leno/
 
-NFT-landing-page: https://djsteplion.github.io/Nft-landing-page/
+(2) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
+
+
+(3) NFT-landing-page: https://djsteplion.github.io/Nft-landing-page/
 
 
 
