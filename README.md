@@ -4,8 +4,8 @@ My name is  Stephen Olayiwola.
 
 I'm currently  a Frontend Web Developer.
 
-I am presently working remotely & part-time at # Rescue-Team-Global-Mission  as a Frontend Web Developer.
-(👉👁 # Watch out for their website launch soon !!! )
+I am presently working remotely & part-time at ### Rescue-Team-Global-Mission  as a Frontend Web Developer.
+(👉👁 ### Watch out for their website launch soon !!! )
 
 I am proficient in HTML5, CSS3, & JAVASCRIPT.
 
