@@ -30,7 +30,7 @@ Here are some ideas to get you started
 
 
 
-🔭 I’m currently working on some websites;basically the frontend aspects.
+🔭
 
 - 👯 I’m looking to work on more website projects...
   🤔 
