@@ -8,7 +8,7 @@
 
 (3) CALTEX website: www.Caltextrader.com 
 
-(4) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMission/
+(4) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
  
 
 (5) Giga-giga landing page: https://djsteplion.github.io/Testing/
