@@ -14,7 +14,7 @@
 (5) Giga-giga landing page: https://djsteplion.github.io/Testing/
 
 
-(6) NFT-landing-page: https://djsteplion.github.io/Nft-landing-page/
+(6) NFT-landing-page(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY): https://djsteplion.github.io/Nft-landing-page/
 
 
 
