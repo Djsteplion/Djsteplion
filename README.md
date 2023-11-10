@@ -6,7 +6,7 @@
 (2) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
 
-(3) CALTEX website:
+(3) CALTEX website: www.Caltextrader.com 
 
 (4) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMission/
  
@@ -39,7 +39,7 @@ Here are some ideas to get you started
 
 - 👯 I’m looking to work on more website projects...
   🤔 
-- 💬 Ask me about  HTML, CSS, JAVASCRIPT, SASS, XML, SQL , PHP ,C , C++ & KOTLIN...
+- 💬 Ask me about  HTML, CSS, JAVASCRIPT,REACT.JS, NEXT.JS, SASS, XML, SQL , PHP ,C , C++ & KOTLIN...
 - 📫 How to reach me; WhatsApp: +2349045977499   Email: djsteplion@gmail.com...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I enjoy coding and thinking. I also like food...
