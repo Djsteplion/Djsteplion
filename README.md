@@ -6,7 +6,7 @@
 
 (3) Zwilt Website
 ### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY,FOR NOW): 
-https://zwilt-landingpage.netlify.app
+Kindly view using a laptop💻👨‍💻 https://zwilt-landingpage.netlify.app
 
 (4) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
@@ -18,7 +18,7 @@ https://zwilt-landingpage.netlify.app
 
 (8) NFT-landing-page
 ### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY):
-https://djsteplion.github.io/Nft-landing-page/
+Kindly view using a laptop💻👨‍💻 https://djsteplion.github.io/Nft-landing-page/
 
 
 
