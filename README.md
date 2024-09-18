@@ -2,22 +2,29 @@
 
 (1) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
+
 (2) Hortspurt: https://www.hortspurt.com.ng
 
+
 (3) Zwilt Website
-### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY,FOR NOW): 
+### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY): 
 Kindly view using a laptop💻👨‍💻 https://zwilt-landingpage.netlify.app
+
 
 (4) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
+
 (5) CALTEX website: www.Caltextrader.com 
 
+
 (6) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
+
  
 (7) Giga-giga landing page: https://djsteplion.github.io/Testing/
 
+
 (8) NFT-landing-page
-### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY):
+### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY):
 Kindly view using a laptop💻👨‍💻 https://djsteplion.github.io/Nft-landing-page/
 
 
