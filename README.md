@@ -1,20 +1,20 @@
 ### These are the links to some of my works:
 
-(1) Leno-app-landing-page: https://djsteplion.github.io/leno/
+(1) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
+(2) Hortspurt: https://www.hortspurt.com.ng
 
-(2) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
+(3) Zwilt Website(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY,FOR NOW): https://zwilt-landingpage.netlify.app
 
+(4) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
-(3) CALTEX website: www.Caltextrader.com 
+(5) CALTEX website: www.Caltextrader.com 
 
-(4) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
+(6) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
  
+(7) Giga-giga landing page: https://djsteplion.github.io/Testing/
 
-(5) Giga-giga landing page: https://djsteplion.github.io/Testing/
-
-
-(6) NFT-landing-page(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY): https://djsteplion.github.io/Nft-landing-page/
+(8) NFT-landing-page(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY): https://djsteplion.github.io/Nft-landing-page/
 
 
 
@@ -37,9 +37,9 @@ Here are some ideas to get you started
 
 🔭
 
-- 👯 I’m looking to work on more website projects...
+- 👯 I’m looking to collaborate on more Web projects...
   🤔 
-- 💬 Ask me about  HTML, CSS, JAVASCRIPT,REACT.JS, NEXT.JS, SASS, XML, SQL , PHP ,C , C++ & KOTLIN...
+- 💬 Ask me about  HTML, CSS, JAVASCRIPT,REACT.JS, NEXT.JS, SASS, SQL ,C , C++ & DART...
 - 📫 How to reach me; WhatsApp: +2349045977499   Email: djsteplion@gmail.com...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I enjoy coding and thinking. I also like food...
