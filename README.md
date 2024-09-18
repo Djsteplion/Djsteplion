@@ -4,7 +4,9 @@
 
 (2) Hortspurt: https://www.hortspurt.com.ng
 
-(3) Zwilt Website(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY,FOR NOW): https://zwilt-landingpage.netlify.app
+(3) Zwilt Website
+### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY,FOR NOW): 
+https://zwilt-landingpage.netlify.app
 
 (4) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
@@ -14,7 +16,9 @@
  
 (7) Giga-giga landing page: https://djsteplion.github.io/Testing/
 
-(8) NFT-landing-page(OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY): https://djsteplion.github.io/Nft-landing-page/
+(8) NFT-landing-page
+### (OPTIMAL VIEW AVAILABLE ON DESKTOP DEVICES ONLY):
+https://djsteplion.github.io/Nft-landing-page/
 
 
 
