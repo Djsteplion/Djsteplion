@@ -2,32 +2,21 @@
 
 (1) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
+(2) Leno-app-landing-page: https://djsteplion.github.io/leno/
 
-(2) Hortspurt: https://www.hortspurt.com.ng
+(3) CALTEX website: www.Caltextrader.com
 
-
-(3) Zwilt Website
-### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY): 
+(4) Zwilt Website
+### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY FOR NOW): 
 Kindly view using a laptop💻👨‍💻 https://zwilt-landingpage.netlify.app
 
+(5) Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
 
-(4) Leno-app-landing-page: https://djsteplion.github.io/leno/
-
-
-(5) CALTEX website: www.Caltextrader.com 
-
-
-(6) Rescuue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
-
- 
-(7) Giga-giga landing page: https://djsteplion.github.io/Testing/
-
-
-(8) NFT-landing-page
-### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY):
+(6) NFT-landing-page
+### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY FOR NOW):
 Kindly view using a laptop💻👨‍💻 https://djsteplion.github.io/Nft-landing-page/
 
-
+(7) Hortspurt: https://www.hortspurt.com.ng
 
 
 <!--
@@ -48,9 +37,9 @@ Here are some ideas to get you started
 
 🔭
 
-- 👯 I’m looking to collaborate on more Web projects...
+- 👯 I’m looking to collaborate on more Web and mobile app projects...
   🤔 
-- 💬 Ask me about  HTML, CSS, JAVASCRIPT,REACT.JS, NEXT.JS, SASS, SQL ,C , C++ & DART...
+- 💬 Ask me about  HTML, CSS, JAVASCRIPT,REACT.JS, NEXT.JS, SASS, SQL ,C , C++, FLUTTERU &  DART...
 - 📫 How to reach me; WhatsApp: +2349045977499   Email: djsteplion@gmail.com...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I enjoy coding and thinking. I also like food...
