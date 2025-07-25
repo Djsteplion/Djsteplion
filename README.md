@@ -6,15 +6,13 @@
 
 (3) CALTEX website: www.Caltextrader.com
 
-(4) Zwilt Website
+(4) NFT-landing-page: https://djsteplion.github.io/Nft-landing-page/
+
+(5) Zwilt Website
 ### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY FOR NOW): 
 Kindly view using a laptop💻👨‍💻 https://zwilt-landingpage.netlify.app
 
-(5) Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
-
-(6) NFT-landing-page
-### (OPTIMAL VIEW FOR THIS PARTICULAR WEBSITE, IS AVAILABLE ON DESKTOP DEVICES ONLY FOR NOW):
-Kindly view using a laptop💻👨‍💻 https://djsteplion.github.io/Nft-landing-page/
+(6) Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/
 
 (7) Hortspurt: https://www.hortspurt.com.ng
 
