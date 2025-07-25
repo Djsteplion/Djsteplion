@@ -2,7 +2,7 @@
 
 (1) Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
-(2) Leno-app-landing-page: https://djsteplion.github.io/Leno/
+(2) Leno-app-landing-page: https://djsteplion.github.io/Leno
 
 (3) CALTEX website: www.Caltextrader.com
 
