@@ -7,7 +7,10 @@
 
 ### These are the links to the apps I've built over the years:
 
-- AgroHive App: 
+- AgroHive App: https://github.com/Djsteplion/AgroHive
+
+
+### My Path to AI Research
 
 <!--Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/ --->
 
@@ -24,5 +27,3 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Pronouns: He
-- ⚡ Fun fact: I enjoy coding and thinking. I also like food...
