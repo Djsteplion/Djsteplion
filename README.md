@@ -1,3 +1,14 @@
+### PROFILE:
+
+My name is Stephen Olayiwola.I am a Frontend Web & Mobile App Developer, transitioning into the AI ecosystem.
+I have at least 3years experience in Frontend Web Development. and close to A year's experience in mobile app development.
+
+### Frontend Frameworks/Languages:
+- Html, Css, Tailwindcss, Vanila Javascript, Reactjs & Nextjs.
+
+### Mobile App Development Frameworks/Languages:
+- Flutter, Dart.
+
 ### These are the links to very few of the websites I've built over the years:
 
 - Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
@@ -11,7 +22,7 @@
 
 
 ### My Path to AI Research
-
+- https://github.com/Djsteplion/AI-Self-Study
 <!--Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/ --->
 
 <!--
