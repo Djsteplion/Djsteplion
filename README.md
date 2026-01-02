@@ -19,6 +19,8 @@ I have at least 3years experience in Frontend Web Development. and close to A ye
 ### These are the links to some of the apps I built recently:
 
 - AgroHive App: https://github.com/Djsteplion/AgroHive
+  
+- Brown Coffee App: https://github.com/Djsteplion/Brown-Coffee-App/tree/main
 
 
 ### My Path to AI Research
