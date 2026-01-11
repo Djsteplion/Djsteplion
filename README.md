@@ -13,7 +13,7 @@ I have at least 3years experience in Frontend Web Development. and close to A ye
 
 - Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
 
-- Leno-app-landing-page: https://djsteplion.github.io/leno
+- Leno-app-landing-page: https://djsteplion.github.io/Leno-Latest/
   
 
 ### These are the links to some of the apps I built recently:
