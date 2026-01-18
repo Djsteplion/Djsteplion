@@ -11,7 +11,7 @@ I have at least 3years experience in Frontend Web Development. and close to A ye
 
 ### These are the links to very few of the websites I've built over the years:
 
-- Aria Landing-Page: https://djsteplion.github.io/aria-website-landing-page/
+- Aria Landing-Page: https://djsteplion.github.io/Aria-Landing-Page/
 
 - Leno-app-landing-page: https://djsteplion.github.io/Leno-Latest/
   
