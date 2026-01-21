@@ -13,7 +13,7 @@ I have at least 3years experience in Frontend Web Development. and close to A ye
 
 - Aria Landing-Page: https://djsteplion.github.io/Aria-Landing-Page/
 
-- Leno-app-landing-page: https://djsteplion.github.io/Leno-Latest/
+- Leno-app-landing-page: https://djsteplion.github.io/Leno-Landing-Page/
   
 
 ### These are the links to some of the apps I built recently:
@@ -25,7 +25,7 @@ I have at least 3years experience in Frontend Web Development. and close to A ye
 
 ### My Path to AI Research
 - https://github.com/Djsteplion/AI-Self-Study
-<!--Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/ --->
+<!--Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/    https://djsteplion.github.io/Leno-Latest/ --->
 
 <!--
 **Djsteplion/Djsteplion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
