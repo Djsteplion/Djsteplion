@@ -4,7 +4,7 @@ My name is Stephen Olayiwola.I am a Frontend Web & Mobile App Developer, transit
 I have at least 4years experience in Frontend Web Development. and close to A year's experience in mobile app development.
 
 ### Frontend Frameworks/Languages:
-- Html, Css, Tailwindcss, Vanila Javascript, Reactjs & Nextjs.
+- Html, Css, Tailwindcss, Vanila Javascript, Typescript, Reactjs & Nextjs.
 
 ### Mobile App Development Frameworks/Languages:
 - Flutter, Dart.
