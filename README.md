@@ -10,11 +10,12 @@ Portfolio: https://stephen-olayiwola.netlify.app/
 ### Mobile App Development Frameworks/Languages:
 - Flutter, Dart.
 
-### These are some of the intresting webApps I built recently:
+### These are some of the interesting webApps I built recently:
 - Motifax Ai: https://motifax.netlify.app/
 - Finnish Marine Intelligence Dashboard: https://finland-marine-logistics-dashboard.netlify.app/ui/dashboard
 - Customizable Finance Tracker App: https://personalized-finance-tracker.netlify.app/
 - CeloRaffle: https://celo-raffle-agent.netlify.app/
+- CryptoIntelligence Dashboard: https://crypto-intelligence-dashboard.netlify.app/
 
 ### These are the links to very few of the websites I've built over the years:
 
