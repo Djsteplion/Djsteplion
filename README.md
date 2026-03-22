@@ -10,6 +10,12 @@ Portfolio: https://stephen-olayiwola.netlify.app/
 ### Mobile App Development Frameworks/Languages:
 - Flutter, Dart.
 
+### These are some of the intresting webApps I built recently:
+- Motifax Ai: https://motifax.netlify.app/
+- Finnish Marine Intelligence Dashboard: https://finland-marine-logistics-dashboard.netlify.app/ui/dashboard
+- Customizable Finance Tracker App: https://personalized-finance-tracker.netlify.app/
+- CeloRaffle: https://celo-raffle-agent.netlify.app/
+
 ### These are the links to very few of the websites I've built over the years:
 
 - Aria Landing-Page: https://djsteplion.github.io/Aria-Landing-Page/
@@ -19,7 +25,7 @@ Portfolio: https://stephen-olayiwola.netlify.app/
 - Zwilt Website: https://zwilt-landing-page.netlify.app/
   
 
-### These are the links to some of the apps I built recently:
+### These are the links to some of the mobile apps I built recently:
 
 - AgroHive App: https://github.com/Djsteplion/AgroHive
   
