@@ -10,6 +10,9 @@ Portfolio: https://stephen-olayiwola.netlify.app/
 ### Mobile App Development Frameworks/Languages:
 - Flutter, Dart.
 
+### Backend Frameworks/Languages:
+- Node.js, Express.js.
+
 ### These are some of the interesting webApps I built recently:
 - Motifax Ai: https://motifax.netlify.app/
 - Finnish Marine Intelligence Dashboard: https://finland-marine-logistics-dashboard.netlify.app/ui/dashboard
