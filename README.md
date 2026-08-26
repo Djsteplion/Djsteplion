@@ -1,7 +1,7 @@
 ### PROFILE:
 
 My name is Stephen Olayiwola.I am a Frontend Web & Mobile App Developer, transitioning into the AI ecosystem.
-I have at least 4years experience in Frontend Web & Mobile app development.
+I have at least 5 years experience in Frontend Web & Mobile app development.
 Portfolio: https://stephen-olayiwola.netlify.app/
 
 ### Frontend Frameworks/Languages:
