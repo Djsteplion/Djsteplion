@@ -5,7 +5,7 @@ I have at least 4years experience in Frontend Web & Mobile app development.
 Portfolio: https://stephen-olayiwola.netlify.app/
 
 ### Frontend Frameworks/Languages:
-- Html, Css, Tailwindcss, Vanila Javascript, Typescript, Reactjs & Nextjs.
+- HTML, CSS, Tailwind, Javascript, Typescript, React.js & Next.js.
 
 ### Mobile App Development Frameworks/Languages:
 - Flutter, Dart.
