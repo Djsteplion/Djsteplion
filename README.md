@@ -1,55 +1,66 @@
-### PROFILE:
+# Stephen Olayiwola
 
-My name is Stephen Olayiwola.I am a Frontend Engineer, transitioning into the AI ecosystem.
-I have at least 5 years experience in Frontend Web & Mobile app development.
-Portfolio: https://stephen-olayiwola.netlify.app/
+### Frontend Engineer · React · Next.js · TypeScript
 
-### Frontend Frameworks/Languages:
-- HTML, CSS, Tailwind, Javascript, Typescript, React.js & Next.js.
+Frontend Engineer with 5+ years of experience building responsive, production-oriented web applications and user interfaces. I specialize in React, Next.js, TypeScript, API-driven applications, performance, accessibility, and complex product workflows.
 
-### Mobile App Development Frameworks/Languages:
-- Flutter, Dart.
+## Tech Stack
 
-### Backend Frameworks/Languages:
-- Node.js, Express.js.
+**Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-### These are some of the interesting webApps I built recently:
-- Motifax Ai: https://motifax.netlify.app/
-- Finnish Marine Intelligence Dashboard: https://finland-marine-logistics-dashboard.netlify.app/ui/dashboard
-- Customizable Finance Tracker App: https://personalized-finance-tracker.netlify.app/
-- CeloRaffle: https://celo-raffle-agent.netlify.app/
-- CryptoIntelligence Dashboard: https://crypto-intelligence-dashboard.netlify.app/
+**Application:** REST APIs · State Management · WebSockets · Authentication · Payments · Data Visualization
 
-### These are the links to very few of the websites I've built over the years:
+**Testing & Quality:** Jest · Vitest · ESLint · Accessibility · Performance Optimization
 
-- Aria Landing-Page: https://djsteplion.github.io/Aria-Landing-Page/
+**Other:** Node.js · Express · Flutter · Dart · Git
 
-- Leno App Landing-Page: https://djsteplion.github.io/Leno-Landing-Page/
+## Selected Projects
 
-- Zwilt Website: https://zwilt-landing-page.netlify.app/
-  
+### Finnish Maritime Intelligence
 
-### These are the links to some of the mobile apps I built recently:
+Data-driven maritime intelligence dashboard using official Finnish maritime APIs, interactive maps, vessel data, and operational information.
 
-- AgroHive App: https://github.com/Djsteplion/AgroHive
-  
-- Brown Coffee App: https://github.com/Djsteplion/Brown-Coffee-App/
+**Next.js · TypeScript · MapLibre · REST APIs**
+
+[Live Demo](https://finland-marine-logistics-dashboard.netlify.app/ui/dashboard) · [Source](https://github.com/Djsteplion/Finnish-Maritime-Intelligence)
+
+### Motifax AI
+
+AI-powered image analysis platform exploring motif and design identification for cultural heritage and research.
+
+**Next.js · TypeScript · React · AI APIs**
+
+[Live Demo](https://motifax.netlify.app/) · [Source](https://github.com/Djsteplion/motifax)
+
+### Food Zone
+
+Full restaurant ecommerce experience covering product browsing, cart management, checkout, delivery workflows, payments, and receipt generation.
+
+**React · TypeScript · Tailwind CSS · Flutterwave**
+
+[Live Demo](https://food-zone-xum.netlify.app/) · [Source](https://github.com/Djsteplion/Food_Zone)
+
+### CeloRaffle
+
+On-chain raffle application combining a Next.js frontend with Solidity smart contracts, wallet integration, CELO payments, ERC-8004 agent identity, and an AI-powered commentary agent.
+
+**Next.js · TypeScript · Solidity · Hardhat · Wagmi · RainbowKit · Celo · Gemini**
+
+[Live Demo](https://celo-raffle-agent.netlify.app/) · [Source](https://github.com/Djsteplion/CeloRaffle)
 
 
-### My Path to AI Research
-- https://github.com/Djsteplion/AI-Self-Study
-<!--Rescue Team Global Ministry Landing-page: https://djsteplion.github.io/RescueTeamGlobalMinistry/    https://djsteplion.github.io/Leno-Latest/ --->
+### Personalized Finance Tracker
 
-<!--
-**Djsteplion/Djsteplion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal finance application for managing transactions, budgets, financial data, and interactive visualizations.
 
-Here are some ideas to get you started 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Next.js · TypeScript · Tailwind CSS · Vitest**
+
+[Live Demo](https://personalized-finance-tracker.netlify.app/) · [Source](https://github.com/Djsteplion/personalized-finance-tracker)
+
+## Connect
+
+**Portfolio:** https://stephen-olayiwola.netlify.app/
+
+**LinkedIn:** https://www.linkedin.com/in/stephen-olayiwola-3a86211b7/
+
+**X:** https://x.com/djsteplion
