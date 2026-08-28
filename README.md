@@ -1,10 +1,10 @@
-# Stephen Olayiwola
+# Stephen Olayiwola 👨‍💻
 
 ### Frontend Engineer · React · Next.js · TypeScript
 
 Frontend Engineer with 5+ years of experience building responsive, production-oriented web applications and user interfaces. I specialize in React, Next.js, TypeScript, API-driven applications, performance, accessibility, and complex product workflows.
 
-## Tech Stack
+## Tech Stack 🖥️
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
@@ -14,7 +14,7 @@ Frontend Engineer with 5+ years of experience building responsive, production-or
 
 **Other:** Node.js · Express · Flutter · Dart · Git
 
-## Selected Projects
+## Selected Projects 💼
 
 ### Finnish Maritime Intelligence
 
@@ -57,7 +57,7 @@ Personal finance application for managing transactions, budgets, financial data,
 
 [Live Demo](https://personalized-finance-tracker.netlify.app/) · [Source](https://github.com/Djsteplion/personalized-finance-tracker)
 
-## Connect
+## Connect 🌐
 
 **Portfolio:** https://stephen-olayiwola.netlify.app/
 
